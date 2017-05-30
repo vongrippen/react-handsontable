@@ -33,6 +33,34 @@ module.exports = [
         commonjs: 'handsontable',
         amd: 'handsontable',
         umd: 'handsontable'
+      },
+      'moment': {
+        root: 'moment',
+        commonjs2: 'moment',
+        commonjs: 'moment',
+        amd: 'moment',
+        umd: 'moment'
+      },
+      'numbro': {
+        root: 'numbro',
+        commonjs2: 'numbro',
+        commonjs: 'numbro',
+        amd: 'numbro',
+        umd: 'numbro'
+      },
+      'pikaday': {
+        root: 'pikaday',
+        commonjs2: 'pikaday',
+        commonjs: 'pikaday',
+        amd: 'pikaday',
+        umd: 'pikaday'
+      },
+      'zeroclipboard': {
+        root: 'Zeroclipboard',
+        commonjs2: 'zeroclipboard',
+        commonjs: 'zeroclipboard',
+        amd: 'zeroclipboard',
+        umd: 'zeroclipboard'
       }
     },
 
